@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-UTS
+UTS dan UAS
